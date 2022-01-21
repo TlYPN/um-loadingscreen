@@ -1,9 +1,18 @@
-- 213 error fixed
-- Fix(sql): tinyint
-- Tempfix(client/main.lua)
-- Moved Notification Event for Inventory Wipe
-- Updated all events to the new RegisterNetEvent and got rid of unneeded handlers
-- Whatsapp Messages fix
-- Update fxmanifest.lua
-- Added Discord rich
-- Added QBCore doc
+- Custom interiors from TOP FiveM Map developers
+- Custom Ambient Motels/hotels
+- Player Owned business
+- Exclusive Weed growing, grow anywhere outdoors
+- Exclusive Moonshining
+- Exclusive Coca Growing, grow anywhere outdoors
+- Custom Drug Selling, no "running around to find locals"
+- Custom livery's for LSPD, DOC, BCSO, EMS
+- Custom Natural vegetation generation and road generation 
+- Custom towing with working flatbeds and ropes
+- Custom Vehicle trailers and boat trailers
+- Custom Vehicle boosting system and Vin Scratching
+- Casino w/ Blackjack, Slot machines and Lucky wheel!
+- Custom Vehicles you wont find anywhere else
+- Custom Heists, Custom illegal jobs, Custom Drug manufacturing
+- Multiple, in game events every week!
+- PETS
+- Soft Discord Whitelist with anti cheats in place
